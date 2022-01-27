@@ -1,4 +1,4 @@
-# Hi there, I'm René Marceau
+# Hi there, I'm René Marceau (20 years old)
 - 👀 I’m interested in Front-end Developement.
 - 🌱 I’m currently learning Typescript
 - 💞️ I’m looking to collaborate on React
