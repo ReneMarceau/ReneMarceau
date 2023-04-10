@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm René Marceau</h1>
-<h3 align="center">A passionate frontend developer from Canada</h3>
+<h3 align="center">A passionate full-stack developer from Canada</h3><br>
 
 - 🔭 I’m currently working on [push_swap](https://github.com/ReneMarceau/push_swap.git)
 
@@ -27,8 +27,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=renemarceau&show_icons=true&locale=en&layout=compact" alt="renemarceau" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=renemarceau&show_icons=true&locale=en" alt="renemarceau" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=renemarceau&" alt="renemarceau" /></p>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/ReneMarceau"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ReneMarceau" /></a></p><br><br>
