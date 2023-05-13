@@ -5,10 +5,6 @@
 
 - 🌱 I’m currently learning **Jest, Prisma, React Native**
 
-- 👯 I’m looking to collaborate on [so_long](https://github.com/ReneMarceau/so_long)
-
-- 🤝 I’m looking for help with [libft](https://github.com/ReneMarceau/libft)
-
 - 👨‍💻 All of my projects are available at [Portfolio's website](https://uxfol.io/kyle-kovacs?utm_source=blog&utm_medium=header-link&utm_campaign=examples)
 
 - 📫 How to reach me **rene.marceau.dev@gmail.com**
