@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 All of my projects are available at [Portfolio's website](https:renemarceau.github.io)<br><br> 🔭 I’m currently working on <b>Viralhub</b>, a mobile application to create and post easily Ai generated content to multiple social medias<br>🌟 My specialities and interests are <b>Web Application Development</b>, <b>Artificial Intelligence</b><br>🌱 I’m currently learning <b>Flutter</b>, <b>Firebase</b><br>💬 Let's <b>Connect</b>! Whether it's a project collaboration, sharing insights, or just a chat about the latest in tech, feel free to reach out<br><br>📫 How to reach me rene.marceau.dev@gmail.com
+👨‍💻 All of my projects are available at [Portfolio's website](https://renemarceau.github.io)<br><br> 🔭 I’m currently working on <b>Viralhub</b>, a mobile application to create and post easily Ai generated content to multiple social medias<br>🌟 My specialities and interests are <b>Web Application Development</b>, <b>Artificial Intelligence</b><br>🌱 I’m currently learning <b>Flutter</b>, <b>Firebase</b><br>💬 Let's <b>Connect</b>! Whether it's a project collaboration, sharing insights, or just a chat about the latest in tech, feel free to reach out<br><br>📫 How to reach me rene.marceau.dev@gmail.com
 
 
 ## 🌐 Socials:
